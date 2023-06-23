@@ -20,17 +20,11 @@ The features such as correlation, Sum average, energy, entropy, Sum of squares(V
 Sum variance, Sum entropy, Difference variance, Information measure of correlation 1, Information measure of correlation 2, Difference entropy corresponding to five classes are extracted using the proposed algorithms.The confusion
 matrix obtained for the SVM classifier is shown below.
 
-| ---- | ---- | ---- | ---- |---- |
 | 4777 |  933 | 507  |  31  |  38 | 
-| ---- | ---- | ---- | ---- |---- |
 | 414  | 147  | 113  |  5   |  7  | 
-| ---- | ---- | ---- | ---- |---- |
 | 131  | 142  |  412 |  10  | 28  | 
-| ---- | ---- | ---- | ---- |---- |
 |  82  |   29 |  57  |  20  |  8  | 
-| ---- | ---- | ---- | ---- |---- |
 |   0  |  15  |  54  |   2  |  38 | 
-| ---- | ---- | ---- | ---- |---- |
     
 The proposed system is able to identify their class with 67 percentage of accuracy .
     
