@@ -1,5 +1,5 @@
 # diabetic-retinopathy-detection
-Classifier for diagnosing diabetic retinopathy using appropriate image processing techniques and machine learning algorithms
+Open source classifier for diagnosing diabetic retinopathy using appropriate image processing techniques and machine learning algorithms
 
 Downloaded the dataset from Kaggle: https://www.kaggle.com/c/diabetic-retinopathy-detection/data.
 
