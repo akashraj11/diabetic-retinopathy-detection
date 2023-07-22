@@ -33,5 +33,5 @@ matrix obtained for the SVM classifier is shown below.
 |   0  |  15  |  54  |   2  |  38 | 
 | ---- | ---- | ---- | ---- |---- |
     
-The proposed system is able to identify their class with 67 percent of accuracy.
+The proposed system can identify its class with an accuracy of 96.62% using SVC and an accuracy of 94.38% using the KNN algorithm.
     
